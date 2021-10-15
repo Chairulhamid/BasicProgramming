@@ -1,0 +1,14 @@
+D:\MII\Programming1\BasicProgramming58\BasicProgramming58\bin\Debug\netcoreapp3.1\BasicProgramming58.exe
+D:\MII\Programming1\BasicProgramming58\BasicProgramming58\bin\Debug\netcoreapp3.1\BasicProgramming58.deps.json
+D:\MII\Programming1\BasicProgramming58\BasicProgramming58\bin\Debug\netcoreapp3.1\BasicProgramming58.runtimeconfig.json
+D:\MII\Programming1\BasicProgramming58\BasicProgramming58\bin\Debug\netcoreapp3.1\BasicProgramming58.runtimeconfig.dev.json
+D:\MII\Programming1\BasicProgramming58\BasicProgramming58\bin\Debug\netcoreapp3.1\BasicProgramming58.dll
+D:\MII\Programming1\BasicProgramming58\BasicProgramming58\bin\Debug\netcoreapp3.1\BasicProgramming58.pdb
+D:\MII\Programming1\BasicProgramming58\BasicProgramming58\obj\Debug\netcoreapp3.1\BasicProgramming58.csproj.AssemblyReference.cache
+D:\MII\Programming1\BasicProgramming58\BasicProgramming58\obj\Debug\netcoreapp3.1\BasicProgramming58.GeneratedMSBuildEditorConfig.editorconfig
+D:\MII\Programming1\BasicProgramming58\BasicProgramming58\obj\Debug\netcoreapp3.1\BasicProgramming58.AssemblyInfoInputs.cache
+D:\MII\Programming1\BasicProgramming58\BasicProgramming58\obj\Debug\netcoreapp3.1\BasicProgramming58.AssemblyInfo.cs
+D:\MII\Programming1\BasicProgramming58\BasicProgramming58\obj\Debug\netcoreapp3.1\BasicProgramming58.csproj.CoreCompileInputs.cache
+D:\MII\Programming1\BasicProgramming58\BasicProgramming58\obj\Debug\netcoreapp3.1\BasicProgramming58.dll
+D:\MII\Programming1\BasicProgramming58\BasicProgramming58\obj\Debug\netcoreapp3.1\BasicProgramming58.pdb
+D:\MII\Programming1\BasicProgramming58\BasicProgramming58\obj\Debug\netcoreapp3.1\BasicProgramming58.genruntimeconfig.cache
